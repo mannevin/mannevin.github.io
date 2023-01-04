@@ -20,13 +20,13 @@ nav{
     padding-right: 8%;
 }
 .logo{
-    color: white;
+    color: azure;
     font-size: 35px;
     letter-spacing: 1px;
     cursor: pointer;
 }
 span {
-    color:bisque;
+    color:lightsalmon;
 }
 nav ul li{
     list-style-type: none;
@@ -34,18 +34,18 @@ nav ul li{
     padding: 10px 25px;
 }
 nav ul li a{
-    color: white;
+    color: azure;
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
 }
 nav ul li a:hover{
-    color:azure;
+    color:lightsalmon;
     transition: .4s;
 }
 .btn{
     background-color: azure;
-    color: black;
+    color: lightsalmon;
     text-decoration: none;
     border: 2px solid transparent;
     font-weight: bold;
