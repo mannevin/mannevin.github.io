@@ -26,7 +26,7 @@ nav{
     cursor: pointer;
 }
 span {
-    color:lightsalmon;
+    color:maroon;
 }
 nav ul li{
     list-style-type: none;
@@ -34,18 +34,18 @@ nav ul li{
     padding: 10px 25px;
 }
 nav ul li a{
-    color: azure;
+    color: white;
     text-decoration: none;
     font-weight: bold;
     text-transform: capitalize;
 }
 nav ul li a:hover{
-    color:lightsalmon;
+    color:maroon;
     transition: .4s;
 }
 .btn{
-    background-color: azure;
-    color: lightsalmon;
+    background-color: maroon;
+    color: white;
     text-decoration: none;
     border: 2px solid transparent;
     font-weight: bold;
