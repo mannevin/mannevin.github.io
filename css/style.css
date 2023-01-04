@@ -20,10 +20,14 @@ nav{
     padding-right: 8%;
 }
 .logo{
-    color: azure;
-    font-size: 35px;
-    letter-spacing: 1px;
-    cursor: pointer;
+    background-color: maroon;
+    color: white;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 30px;
+    transition: .4s;
 }
 span {
     color:maroon;
